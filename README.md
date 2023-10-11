@@ -1,4 +1,4 @@
-### curso-machine-learning
+# curso-machine-learning
 
 ## Día 1 - Lunes
 
